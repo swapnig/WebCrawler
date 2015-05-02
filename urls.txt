@@ -1,0 +1,7 @@
+seed_url
+	extracted_url_1
+	extracted_url_2
+	extracted_url_3
+extracted_url_1
+extracted_url_2
+extracted_url_3
